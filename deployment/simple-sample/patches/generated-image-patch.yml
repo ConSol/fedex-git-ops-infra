@@ -7,4 +7,4 @@ spec:
     spec:
       containers:
       - name: app
-        image: 935491670310.dkr.ecr.eu-central-1.amazonaws.com/fedex-gitops:143de409
+        image: 935491670310.dkr.ecr.eu-central-1.amazonaws.com/fedex-gitops:e40155db
